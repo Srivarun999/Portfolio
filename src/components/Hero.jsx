@@ -182,7 +182,7 @@ export default function Hero() {
               {/* Profile Image Container */}
               <div className="relative w-64 h-64 sm:w-80 sm:h-80 rounded-full overflow-hidden border-2 border-purple-500/40 shadow-2xl shadow-purple-900/50">
                 <img
-                  src="/profile.jpg"
+                  src="/profile.jpeg"
                   alt="Sri Varun Singari"
                   className="w-full h-full object-cover object-top"
                   onError={(e) => {
